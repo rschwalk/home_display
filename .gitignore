@@ -28,5 +28,4 @@ foo-*.tar
 *.secrets.exs
 
 config/wlan.exs
-rootfs_overlay/
 upload.sh
